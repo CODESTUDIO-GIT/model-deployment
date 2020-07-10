@@ -3,7 +3,7 @@ Model Deployment Tutorial
 
 
 Model Deployment Tutorial 1 - Introduction (On-Premises, Cloud IAAS, Cloud PAAS)
-<br>https://www.youtube.com/watch?v=V9FcjnQGkAg&list=PLNvKRfckeRUnF57abA2PV8JAfTGsxifDI&index=2&t=105s
+<br>https://www.youtube.com/watch?v=V9FcjnQGkAg&list=PLNvKRfckeRUnF57abA2PV8JAfTGsxifDI&index=1
 
 Model Deployment Tutorial 2 - ML Model in Heroku Cloud (PAAS)
 <br>https://www.youtube.com/watch?v=PTeO6l9ZRL8&list=PLNvKRfckeRUnF57abA2PV8JAfTGsxifDI&index=2
